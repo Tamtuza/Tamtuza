@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Tamtuza/Tamtuza/ascii.png">
+<img src="https://github.com/Tamtuza/Tamtuza/blob/master/ascii.PNG">
 
 ## Oi, meu nome é Tamillys Pantuza 🙋
 
