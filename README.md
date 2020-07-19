@@ -36,7 +36,7 @@ Amo criar, amo desenvolver, amo pensar as jornadas dos meus usuários e amo mais
 
 ## Nas interwebs eu: 🌍
 📸 Passo vergonha direto no [Instagram](https://instagram.com/tamtuza) <br/>
-🧻 Falo um monte de bobagens no [Twitter](https://twitter.com/juangabrielr4) <br/>
+🧻 Falo um monte de bobagens no [Twitter](https://twitter.com/tamtuza) <br/>
 🙆‍♂️ Tento ser séria e passar credibilidade no [Linkedin](https://www.linkedin.com/in/tamillys/) <br/>
 👻 Tenho preguiça de usar [Facebook](http://www.facebook.com/tamtuza) <br/>
 ⏰ Tô enrolando pra atualizar meu [Site pessoal](https://tamillys.com)
