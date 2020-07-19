@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sejam bem viados](ascii.PNG)
-
+<img src="https://github.com/Tamtuza/Tamtuza/ascii.png">
 
 ## Oi, meu nome é Tamillys Pantuza 🙋
 
