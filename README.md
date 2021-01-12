@@ -30,7 +30,7 @@ Amo criar, amo desenvolver, amo pensar as jornadas dos meus usuários e amo mais
 
 ## No momento: 🚩
 
-- Sou Engenheira de Software na [Globo](https://www.globo.com)
+- Sou Desenvolvedora no time de Design System da [Globo.com](https://www.globo.com)
 - Embaixadora da comunidade [+Mulheres em UX Rio](http://www.maismulheresux.com)
 - Responsável de TI na [MMCiência](http://www.mmciencia.com.br)
 
